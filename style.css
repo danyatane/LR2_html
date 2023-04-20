@@ -55,7 +55,7 @@ a:hover {
     margin-left: 10%;
 }
 
-#download_link {
+.download_link {
     float: right;
     margin-right: 10%;
 }
